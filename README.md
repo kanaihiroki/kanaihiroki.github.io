@@ -12,6 +12,12 @@ Enter page title: Enter Title
 Enter file name [20250201-enter-title.html]:
 ```
 
+## Rebuild index.html
+
+```sh
+$ make index.html
+```
+
 ## Publish to github.io
 
 ```sh
